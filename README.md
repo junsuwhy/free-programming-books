@@ -26,6 +26,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + [Bulgarian](/free-programming-books-bg.md)
 + [Burmese](/free-programming-books-mm.md)
 + [Chinese](/free-programming-books-zh.md)
++ [Chinese (Taiwan)](/free-programming-books-zh_TW.md)
 + [Czech](/free-programming-books-cs.md)
 + [English](/free-programming-books.md)
 + [French](/free-programming-books-fr.md)
